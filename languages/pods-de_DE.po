@@ -24,7 +24,7 @@ msgstr ""
 
 #: classes/PodsAdmin.php:1070
 msgid "Enable Archive Page"
-msgstr ""
+msgstr "Archiv-Seite erlauben"
 
 #: classes/PodsAdmin.php:1071
 msgid "If enabled, creates an archive page with list of of items in this custom post type. Functions like a category page for posts. Can be controlled with a template in your theme called \"archive-{$post-type}.php\"."
@@ -44,11 +44,11 @@ msgstr ""
 
 #: classes/fields/file.php:116
 msgid "Link to File in editor"
-msgstr ""
+msgstr "Link zur Datei im Editor"
 
 #: ui/admin/setup-add.php:140
 msgid "<h6>Page Title</h6> This is the text that will appear at the top of your settings page."
-msgstr ""
+msgstr "<h6>Seitentitel</h6> Dieser Text wird oben auf der Optionen-Seite erscheinen."
 
 #: classes/fields/pick.php:144
 msgid "Taggable"
@@ -56,7 +56,7 @@ msgstr ""
 
 #: classes/fields/pick.php:145
 msgid "Allow new values to be inserted when using an Autocomplete field"
-msgstr ""
+msgstr "Erlaube neue Werte bei Benutzung der Autovervollständigen-Funktion"
 
 #: ui/admin/setup-edit.php:531
 msgid "Jetpack Publicize Support"
@@ -68,7 +68,7 @@ msgstr ""
 
 #: components/Templates/class-pods_templates.php:193
 msgid "Pod Reference"
-msgstr ""
+msgstr "Pod Referenz"
 
 #: components/Templates/includes/element-pod_reference.php:6
 msgid "Select Pod to use as reference"
@@ -80,15 +80,15 @@ msgstr ""
 
 #: classes/fields/pick.php:175
 msgid "Allow HTML"
-msgstr ""
+msgstr "Erlaube HTML"
 
 #: ui/admin/widgets/list.php:78
 msgid "Before Content"
-msgstr ""
+msgstr "Vor dem Inhalt"
 
 #: ui/admin/widgets/list.php:90
 msgid "After Content"
-msgstr ""
+msgstr "Nach dem Inhalt"
 
 #: components/Migrate-Packages/ui/wizard.php:279
 msgid "Process Again"
@@ -100,11 +100,11 @@ msgstr ""
 
 #: components/Pages.php:497
 msgid "Redirect to WP Login page"
-msgstr ""
+msgstr "Weiterleitung zur WP Anmelde-Seite"
 
 #: components/Pages.php:507
 msgid "Redirect to a Custom URL"
-msgstr ""
+msgstr "Weiterleitung zu benutzerdefinierter URL"
 
 #: ui/admin/setup-add.php:177 ui/admin/setup-add.php:188
 msgid "Pod Name"
@@ -116,15 +116,15 @@ msgstr ""
 
 #: classes/PodsAPI.php:5079
 msgid "Pod Fields"
-msgstr ""
+msgstr "Pod Felder"
 
 #: classes/PodsAPI.php:5083
 msgid "Pod Field"
-msgstr ""
+msgstr "Pod Feld"
 
 #: classes/PodsAdmin.php:1160
 msgid "Default Status"
-msgstr ""
+msgstr "Vorgegebener Status"
 
 #: classes/fields/file.php:77
 msgid "Upload Limit"
@@ -140,7 +140,7 @@ msgstr "Mehrere Dateien"
 
 #: classes/fields/file.php:121
 msgid "Max Number of Files"
-msgstr ""
+msgstr "Maximale Anzahl an Dateien"
 
 #: classes/fields/code.php:82 classes/fields/currency.php:188
 #: classes/fields/email.php:70 classes/fields/number.php:116
@@ -148,11 +148,11 @@ msgstr ""
 #: classes/fields/phone.php:95 classes/fields/text.php:93
 #: classes/fields/website.php:83
 msgid "Set to -1 for no limit"
-msgstr ""
+msgstr " Setze -1 für keine Limitierung"
 
 #: classes/PodsAdmin.php:1250
 msgid "Single Value Taxonomy"
-msgstr ""
+msgstr "Einzelwert-Taxonomie"
 
 #: classes/PodsAdmin.php:1251
 msgid "Use a drop-down for the input instead of the WordPress default"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: classes/PodsAdmin.php:1258
 msgid "Single Value Taxonomy - Required"
-msgstr ""
+msgstr "Einzelwert-Taxonomie erforderlich"
 
 #: classes/PodsAdmin.php:1259
 msgid "A term will be selected by default in the Post Editor, not optional"
@@ -168,11 +168,11 @@ msgstr ""
 
 #: classes/fields/pick.php:496
 msgid "Calendar - Days of Week"
-msgstr ""
+msgstr "Kalender - Wochentage"
 
 #: classes/fields/pick.php:503
 msgid "Calendar - Months of Year"
-msgstr ""
+msgstr "Kalender - Monate des Jahres"
 
 #: classes/fields/html.php:98
 msgid "Changes double line-breaks in the text into HTML htmls"
@@ -180,7 +180,7 @@ msgstr ""
 
 #: ui/admin/setup-edit.php:523
 msgid "YARPP Support"
-msgstr ""
+msgstr "YARPP Unterstützung"
 
 #: classes/fields/paragraph.php:128 classes/fields/wysiwyg.php:145
 msgid "Format: strong em a ul ol li b i"
@@ -216,23 +216,23 @@ msgstr ""
 
 #: classes/PodsUI.php:1902
 msgid "<strong>Deleted:</strong> %s has been deleted."
-msgstr ""
+msgstr "<strong>Gelöscht:</strong> %s wurde gelöscht."
 
 #: classes/PodsUI.php:1904 classes/PodsUI.php:1947
 msgid "<strong>Error:</strong> %s has not been deleted."
-msgstr ""
+msgstr "<strong>Fehler:</strong> %s wurde nicht gelöscht."
 
 #: classes/PodsUI.php:1950
 msgid "<strong>Deleted:</strong> %s have been deleted."
-msgstr ""
+msgstr "<strong>Gelöscht:</strong> %s wurden gelöscht."
 
 #: ui/admin/form.php:269 ui/admin/view.php:115
 msgid "Previous %s"
-msgstr ""
+msgstr "Vorherige(r) %s"
 
 #: ui/admin/form.php:277 ui/admin/view.php:123
 msgid "Next %s"
-msgstr ""
+msgstr "Nächste(r) %s"
 
 #: classes/PodsAdmin.php:1333
 msgid "Normal (Looks like the Post Type UI)"
@@ -264,17 +264,17 @@ msgstr ""
 
 #: classes/PodsAdmin.php:730
 msgid "Number of Fields"
-msgstr ""
+msgstr "Anzahl an Feldern"
 
 #: classes/PodsAdmin.php:814
 msgid "Are you sure you want to delete all items from this Pod? If this is an extended Pod, it will remove the original items extended too."
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie alle Einträge dieses Pods löschen möchten? Falls dass ein erweiterter Pod ist, werden auch alle Standard-Einträge gelöscht."
 
 #: classes/PodsAdmin.php:828
 msgid "field"
 msgid_plural "fields"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Feld"
+msgstr[1] "Felder"
 
 #: classes/PodsAdmin.php:1044
 msgid "User Capability"
@@ -383,7 +383,7 @@ msgstr ""
 
 #: classes/PodsAdmin.php:1578 components/Pages.php:435
 msgid "Restrict access to Admins?"
-msgstr ""
+msgstr "Zugriff nur auf Administratoren einschränken?"
 
 #: components/Pages.php:444
 msgid "<h6>Roles</h6> Roles are assigned to users to provide them access to specific functionality in WordPress. Please see the Roles and Capabilities component in Pods for an easy tool to add your own roles and edit existing ones."
